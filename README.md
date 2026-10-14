@@ -35,7 +35,7 @@ Projeto em desenvolvimento no ecossistema gaas.lab.
 
 - **Código:** [gaas-lab/ponto.](https://github.com/gaas-lab/ponto.)
 
-> Atualize esta descrição com o objetivo do projeto, suas principais funcionalidades e o que você construiu nele.
+
 
 ## // Ferramentas e tecnologias
 
@@ -50,7 +50,6 @@ Projeto em desenvolvimento no ecossistema gaas.lab.
 
 </div>
 
-*Lista inicial baseada nas tecnologias visíveis nos projetos públicos. Mantenha apenas as ferramentas que você consegue explicar e usar com segurança.*
 
 ## // Princípios de trabalho
 
